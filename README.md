@@ -1,6 +1,4 @@
 # presetasi
-Keperluan untuk Presentasi
-
 
 #include <iostream>
 using namespace std;
